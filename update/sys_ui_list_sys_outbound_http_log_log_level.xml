@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_outbound_http_log" version="2" view="log_level">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="sys_outbound_http_log" element="NULL" name="sys_outbound_http_log" parent="NULL" relationship="NULL" sys_domain="global" view="177fd8cedb3f130016cbdc84ce961947">388f9ccedb3f130016cbdc84ce96199d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-09 15:45:59</sys_created_on>
+            <sys_id>bc8f9ccedb3f130016cbdc84ce96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:45:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sequence</element>
+            <list_id display_value="sys_outbound_http_log" element="NULL" name="sys_outbound_http_log" parent="NULL" relationship="NULL" sys_domain="global" view="177fd8cedb3f130016cbdc84ce961947">388f9ccedb3f130016cbdc84ce96199d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-09 15:45:59</sys_created_on>
+            <sys_id>308f9ccedb3f130016cbdc84ce96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:45:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hostname</element>
+            <list_id display_value="sys_outbound_http_log" element="NULL" name="sys_outbound_http_log" parent="NULL" relationship="NULL" sys_domain="global" view="177fd8cedb3f130016cbdc84ce961947">388f9ccedb3f130016cbdc84ce96199d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-09 15:45:59</sys_created_on>
+            <sys_id>b08f9ccedb3f130016cbdc84ce96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:45:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>response_status</element>
+            <list_id display_value="sys_outbound_http_log" element="NULL" name="sys_outbound_http_log" parent="NULL" relationship="NULL" sys_domain="global" view="177fd8cedb3f130016cbdc84ce961947">388f9ccedb3f130016cbdc84ce96199d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-09 15:45:59</sys_created_on>
+            <sys_id>348f9ccedb3f130016cbdc84ce96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:45:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>response_time</element>
+            <list_id display_value="sys_outbound_http_log" element="NULL" name="sys_outbound_http_log" parent="NULL" relationship="NULL" sys_domain="global" view="177fd8cedb3f130016cbdc84ce961947">388f9ccedb3f130016cbdc84ce96199d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-09 15:45:59</sys_created_on>
+            <sys_id>b48f9ccedb3f130016cbdc84ce96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:45:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>log_level</element>
+            <list_id display_value="sys_outbound_http_log" element="NULL" name="sys_outbound_http_log" parent="NULL" relationship="NULL" sys_domain="global" view="177fd8cedb3f130016cbdc84ce961947">388f9ccedb3f130016cbdc84ce96199d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-09 15:45:59</sys_created_on>
+            <sys_id>388f9ccedb3f130016cbdc84ce96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:45:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_outbound_http_log</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-09 15:45:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>388f9ccedb3f130016cbdc84ce96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_outbound_http_log</sys_name>
+            <sys_package display_value="IPLookup" source="x_snc_iplookup_2">41731c82db3f130016cbdc84ce9619b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">41731c82db3f130016cbdc84ce9619b8</sys_scope>
+            <sys_update_name>sys_ui_list_sys_outbound_http_log_log_level</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:45:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="log level" name="log_level">177fd8cedb3f130016cbdc84ce961947</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
